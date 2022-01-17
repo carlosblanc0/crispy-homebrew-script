@@ -37,6 +37,6 @@ brew install git
 echo "Installing general tools"
 brew install --cask windscribe
 brew install --cask whatsapp
-
+brew install --cask raycast
 
 
